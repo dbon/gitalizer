@@ -17,7 +17,7 @@
 # 4. initialising a git bare repository for each folder in path_to_repository
 # 5. cloning each repository in path_to_repository to path_to_workspace
 # 6. copying backed project contents to corresponding cloned project in path_to_workspace
-# 7. TODO: git add . + git commit -m "initial commit"
+# 7. adding files to staging area, commit and push them
 # 8. deleting Backup folder
 #    You can enable/disable deleting the backup folder task by toggling the corresponding comment at the end
 
