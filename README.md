@@ -18,7 +18,7 @@ run `gitalizer.sh path_to_workspace path_to_repository`
    You can enable/disable deleting the backup folder task by toggling the corresponding comment at the end
 
 ### Before
-![alt text](https://github.com/dbon/gitalizer/blob/master/non-vcs.png "Non-VCS Workspace")
+![alt text](https://raw.github.com/dbon/gitalizer/master/non-vcs.png "Non-VCS Workspace")
 
 ### After
-![alt text](https://github.com/dbon/gitalizer/blob/master/git-vcs.png "GIT-VCS Workspace")
+![alt text](https://raw.github.com/dbon/gitalizer/master/git-vcs.png "GIT-VCS Workspace")
