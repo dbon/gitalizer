@@ -26,7 +26,7 @@ run `gitalizer.sh path_to_workspace path_to_repository`
 ### Non-VCS-Workspace (before)
 ![alt text](https://raw.github.com/dbon/gitalizer/master/non-vcs.png "Non-VCS Workspace")
 
-If your project structure looks like the image above you have to run `gitalizer.sh path_to_workspace/CSharp path_to_repository/CSharp`
+If your project structure looks like the image above you have to run `gitalizer.sh path_to_workspace/CSharp path_to_repository/CSharp` and `gitalizer.sh path_to_workspace/Java path_to_repository/Java`
 
 ### GIT-VCS-Workspace (after)
 ![alt text](https://raw.github.com/dbon/gitalizer/master/git-vcs.png "GIT-VCS Workspace")
