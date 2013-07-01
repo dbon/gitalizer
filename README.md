@@ -3,7 +3,7 @@ Gitalizer
 
 A non-VCS-Workspace to GIT-VCS-Workspace Transformer.   
 
-Ever wanted to put all your project under GIT-Version control?
+Ever wanted to put all your projects under GIT-Version control?
 But having to many projects kept you off from doing it manually?
 You don't have to do it manually... just let this script do the work for you. 
 
